@@ -1,5 +1,5 @@
 ---
-title: AI in the Industry Tutorials (Density Estimation for Anomaly Detection)
+title: AI in the Industry Tutorials (Sequence Data in Anomaly Detection)
 author: michele.lombardi2@unibo.it
 ---
 
