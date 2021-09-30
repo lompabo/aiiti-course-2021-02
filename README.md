@@ -9,7 +9,7 @@ This is the second lecture of the 2021/2022 edition of the "AI in the Industry" 
 
 While the whole course looks like cookbook, the real goal is using examples to teach how industrial problem can be methodically approaches, analyzed, and tackles using a combination of techniques.
 
-This tutorial in particular deals with techniques for handling sequence data, and for dealing with periods in time series. No new dataset is introduced, which frankly is a bit bring, but it helps focusing on the new techniques.
+This tutorial in particular deals with techniques for handling sequence data, and for dealing with periods in time series. No new dataset is introduced, which frankly is a bit boring, but it helps focusing on the new techniques.
 
 # Accessing the Lecture #
 
